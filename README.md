@@ -65,7 +65,7 @@ Typhoon framework is given as a Python script that could be run using:
 Or:
 
 ``` shell
-ptyhon run_framework.py
+python run_framework.py
 ```
 
 Framework starts emitting data in the form of `DataMessage`
