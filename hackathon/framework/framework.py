@@ -89,7 +89,6 @@ def run(args) -> None:
           .format(lapse_time))
     time.sleep(lapse_time)
 
-    print('D: {}'.format(len(profile)))
     for i, rec in enumerate(profile):
         if i == 0:
             soc_bess, overload, mg, current_power = ini['bessSOC'],      \
