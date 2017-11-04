@@ -55,7 +55,7 @@ class DataMessage:
         self.bessPower = bessPower
 
     def __str__(self):
-        return "{}, {}, {}, {}, {}, {}, {}, {}, {}" \
+        return "{}, {}, {}, {}, {}, {}, {}, {}, {}, {}" \
             .format(self.id, self.grid_status, self.buying_price,
                     self.selling_price, self.current_load,
                     self.solar_production, self.bessSOC,
