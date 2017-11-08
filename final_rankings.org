@@ -1,0 +1,15 @@
+| Team name       |  SCORE  |
+|-----------------+---------|
+|                 |         |
+| Tim404          | 1929.08 |
+| AMiTeliHardware | 1930.43 |
+| Bits Please     | 2053.86 |
+| SyntaxError     | 2078.09 |
+| Cobra Team      | 2128.88 |
+| ~tilda~         | 2194.65 |
+| KoloTree        |  2217.3 |
+| Team TRV        |  2296.3 |
+| PyLiman         | 2661.47 |
+| NoName          | 3096.53 |
+| Code10          | 3407.85 |
+| HilClimbers     | 3538.65 |
